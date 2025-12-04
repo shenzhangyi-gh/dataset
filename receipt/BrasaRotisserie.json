@@ -1,0 +1,19 @@
+{
+  "establishment_name": "Brasa Rotisserie",
+  "date": "2024-01-27T20:50:00",
+  "total": 23.88,
+  "currency": "USD",
+  "tax": 2.13,
+  "items": [
+    {
+      "name": "Roasted Pork & Over Easy Egg Bowl",
+      "price": 15.25,
+      "quantity": 1
+    },
+    {
+      "name": "Indeed Mex Honey Lite",
+      "price": 6.5,
+      "quantity": 1
+    }
+  ]
+}

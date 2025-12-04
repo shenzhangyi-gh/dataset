@@ -1,0 +1,44 @@
+{
+  "establishment_name": "立文春·牛肉汤·炒海贝·好店",
+  "date": "2023-02-22",
+  "total": 256,
+  "currency": "CNY",
+  "tax": 0,
+  "items": [
+    {
+      "name": "卤肉饭",
+      "price": 15,
+      "quantity": 15
+    },
+    {
+      "name": "海贝豆腐汤",
+      "price": 15,
+      "quantity": 18
+    },
+    {
+      "name": "牛肉汤",
+      "price": 18,
+      "quantity": 18
+    },
+    {
+      "name": "葱姜炒海贝",
+      "price": 38,
+      "quantity": 38
+    },
+    {
+      "name": "雪菜炒牛肉",
+      "price": 38,
+      "quantity": 20
+    },
+    {
+      "name": "梅汁水果切盘（凤梨 芒果 芭乐 雪梨）",
+      "price": 20,
+      "quantity": 1
+    },
+    {
+      "name": "土豆牛腩饭",
+      "price": 112,
+      "quantity": 4
+    }
+  ]
+}
